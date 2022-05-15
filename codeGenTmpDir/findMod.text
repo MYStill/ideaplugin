@@ -1,0 +1,6 @@
+
+
+Mod: www
+ModAndMethod : 
+ModAndMethod{mod='aaa', curMod='www', method='a', modAndMethod='aaa:a', line=16}
+ModAndMethod{mod='bbb', curMod='www', method='b', modAndMethod='bbb:b', line=18}

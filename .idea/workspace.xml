@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/myerlangplugin/MyReplace.java" description="tokenMap = PluginHelper.getTokenMap(inText);" line="55" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94583cc4-41be-42b7-a9e3-49f09e331136" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="813972658">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="94" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="5" />
+          <entry key="project.open.time.16" value="9" />
+          <entry key="project.open.time.17" value="8" />
+          <entry key="project.open.time.18" value="8" />
+          <entry key="project.open.time.19" value="7" />
+          <entry key="project.open.time.20" value="7" />
+          <entry key="project.open.time.21" value="6" />
+          <entry key="project.open.time.22" value="13" />
+          <entry key="project.open.time.23" value="8" />
+          <entry key="project.open.time.24" value="5" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.opened" value="113" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="40" />
+          <entry key="erl" value="15" />
+          <entry key="filter" value="2" />
+          <entry key="form" value="26" />
+          <entry key="java" value="252" />
+          <entry key="properties" value="1" />
+          <entry key="test" value="3" />
+          <entry key="text" value="15" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="40" />
+          <entry key="Erlang" value="15" />
+          <entry key="GUI_DESIGNER_FORM" value="26" />
+          <entry key="JAVA" value="252" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="dummy" value="14" />
+          <entry key="erl" value="326" />
+          <entry key="java" value="21939" />
+          <entry key="properties" value="31" />
+          <entry key="test" value="76" />
+          <entry key="text" value="15" />
+          <entry key="xml" value="285" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Erlang" value="326" />
+          <entry key="JAVA" value="21939" />
+          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="Properties" value="31" />
+          <entry key="XML" value="285" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/moduelset/setHelper/GetAndSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Erlang Module" />
+        <option value="Action" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.codeGen</find>
+      <find>setTitle</find>
+      <find>codeGenInputDir</find>
+      <find>CustomEditorIllustration</find>
+      <find>copyFile</find>
+      <find>Stream</find>
+      <find>stream</find>
+      <find>开</find>
+      <find>showMessageDialog</find>
+      <find>getInformationIcon</find>
+      <find>groups</find>
+      <find>contain</find>
+      <find>system</find>
+      <find>getModName</find>
+      <find>p\(.*size</find>
+      <find>println\(\w*.si</find>
+      <find>getal</find>
+      <find>contains</find>
+      <find>getAllFiles</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/fromGui/winBat/WinBatFrom.form" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/winBat/WinBatFrom.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/winBat/WinBatForm.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/winCmd/WinCmdAction.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/chinesePojo.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/chineseFile.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/findChinese.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/ChinesePojo.java" />
+        <option value="$PROJECT_DIR$/src/test/erlang/bbb.erl" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/Regular.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/ChineseFile.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/FindChinese.java" />
+        <option value="$PROJECT_DIR$/src/test/lexer/aaa.erl" />
+        <option value="$PROJECT_DIR$/src/test/lexer/lexer_utils.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/ReplaceForm.form" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/ReplaceForm.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGenHelper/ErlangCodeGener.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/PluginHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGenHelper/CodeGenHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/erlang/erlang.erl" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/utils/ChooseFile.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/psiAction/MyPsiAction.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/findMod/FindMod.form" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/findMod/FindMod.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findMod/findmod.java" />
+        <option value="$PROJECT_DIR$/src/test/erlang/aaa.erl" />
+        <option value="$PROJECT_DIR$/src/test/erlang/sys_aaa.erl" />
+        <option value="$PROJECT_DIR$/src/test/erlang/aaa/www.erl" />
+        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/codeGenTmpDir/filter.properties" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/findMod/FindModForm.form" />
+        <option value="$PROJECT_DIR$/codeGenTmpDir/findMod.text" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/utils/FilterFiles.java" />
+        <option value="$PROJECT_DIR$/codeGenTmpDir/filter.text" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findMod/GetProperties.java" />
+        <option value="$PROJECT_DIR$/src/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/base/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkRepeatFile/CheckRepeatFileName.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/MyReplace.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGen/base/TempCodeGener.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGen/base/BSCodeGener.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/findMod/FindModForm.java" />
+        <option value="$PROJECT_DIR$/log/2022-02-24.txt" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findMod/FindModHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoListHelp.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findMod/FindMod.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoList.java" />
+        <option value="$PROJECT_DIR$/codeGenTmpDir/cfg/properties.properties" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/cfg/CfgProperties.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/checkTwoList/RegularForm.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/moduelset/setHelper/GetAndSet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/软件/mavn/maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\软件\mavn\maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="45" />
+    <option name="width" value="1835" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fromGui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="myerlangplugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="myerlangplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="moduelset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="myerlangplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="moduelset" type="462c0819:PsiDirectoryNode" />
+              <item name="setHelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="erlang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lexer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="codeGenTmpDir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="codeGenTmpDir" type="462c0819:PsiDirectoryNode" />
+              <item name="cfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="re&#9;FILE&#9;file://D:/bstest/ErlangPlugin/src/com/myerlangplugin/ckecktwolist/Regular.java&#10;erlangpl&#9;FILE&#9;file://D:/bstest/ErlangPlugin&#10;Mod&#9;FILE&#9;file://D:/bstest/ErlangPlugin/src/com/myerlangplugin/checkcirculate/pojo/ModAndMethod.java&#10;PsiIfStatement&#9;PSI&#9;JAVA://com.intellij.psi.PsiIfStatement&#10;utils&#9;FILE&#9;file://D:/bstest/ErlangPlugin/src/com/base/FileUtils.java&#10;Matcher&#9;null&#9;null&#10;File&#9;PSI&#9;JAVA://com.base.FileUtils" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="110" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649171974523" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="D:/software/idea/intellij-erlang-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.19770116" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myerlangplugin.psiAction" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bstest\ErlangPlugin\src\lib" />
+      <recent name="D:\bstest\ErlangPlugin\src\test" />
+      <recent name="D:\bstest\ErlangPlugin\src\com\text" />
+      <recent name="D:\bstest\ErlangPlugin\src\com\myerlangplugin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyReplace">
+    <configuration name="CfgProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.cfg.CfgProperties" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.cfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.findMod.FindMod" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.findMod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.findMod.GetProperties" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.findMod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.MyReplace" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="ErlangPlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="ErlangPlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Plugin.Plugin" />
+      <item itemvalue="Application.FindMod" />
+      <item itemvalue="Application.GetProperties" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.CfgProperties" />
+      <item itemvalue="Application.MyReplace" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyReplace" />
+        <item itemvalue="Application.FindMod" />
+        <item itemvalue="Application.CfgProperties" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.GetProperties" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tl\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94583cc4-41be-42b7-a9e3-49f09e331136" name="Default Changelist" comment="" />
+      <created>1561276874542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561276874542</updated>
+      <workItem from="1561276879715" duration="10568000" />
+      <workItem from="1561290191618" duration="122000" />
+      <workItem from="1561290358942" duration="328000" />
+      <workItem from="1561290734837" duration="72000" />
+      <workItem from="1561290850618" duration="467000" />
+      <workItem from="1561291361049" duration="1331000" />
+      <workItem from="1561292737430" duration="2588000" />
+      <workItem from="1561295380067" duration="39000" />
+      <workItem from="1561882699910" duration="2879000" />
+      <workItem from="1561886243078" duration="2176000" />
+      <workItem from="1561889397998" duration="252000" />
+      <workItem from="1561889705153" duration="327000" />
+      <workItem from="1561890084448" duration="893000" />
+      <workItem from="1561891025445" duration="3003000" />
+      <workItem from="1561895720595" duration="1319000" />
+      <workItem from="1562498574128" duration="3058000" />
+      <workItem from="1562501695576" duration="228000" />
+      <workItem from="1562501979080" duration="648000" />
+      <workItem from="1563102611750" duration="3072000" />
+      <workItem from="1563105742323" duration="546000" />
+      <workItem from="1563106336243" duration="1221000" />
+      <workItem from="1563107605541" duration="534000" />
+      <workItem from="1563108186043" duration="757000" />
+      <workItem from="1564295198982" duration="8268000" />
+      <workItem from="1564303846620" duration="376000" />
+      <workItem from="1564304262058" duration="821000" />
+      <workItem from="1564305132439" duration="219000" />
+      <workItem from="1564305402463" duration="1165000" />
+      <workItem from="1564885280227" duration="879000" />
+      <workItem from="1564886465790" duration="2003000" />
+      <workItem from="1564896372526" duration="12951000" />
+      <workItem from="1564921542977" duration="314000" />
+      <workItem from="1564921893554" duration="500000" />
+      <workItem from="1564922428105" duration="390000" />
+      <workItem from="1564922855568" duration="297000" />
+      <workItem from="1564923188989" duration="2344000" />
+      <workItem from="1564925569276" duration="331000" />
+      <workItem from="1566103744324" duration="8259000" />
+      <workItem from="1566706816290" duration="28383000" />
+      <workItem from="1566735840471" duration="126000" />
+      <workItem from="1567930349369" duration="7275000" />
+      <workItem from="1567949377154" duration="206000" />
+      <workItem from="1567949626984" duration="274000" />
+      <workItem from="1568361510351" duration="621000" />
+      <workItem from="1570889398951" duration="42000" />
+      <workItem from="1572005581240" duration="1625000" />
+      <workItem from="1572007255274" duration="1889000" />
+      <workItem from="1572009186117" duration="789000" />
+      <workItem from="1572010017018" duration="1035000" />
+      <workItem from="1572011092500" duration="344000" />
+      <workItem from="1572011472522" duration="147000" />
+      <workItem from="1572011655858" duration="1215000" />
+      <workItem from="1572012913304" duration="56000" />
+      <workItem from="1572013038484" duration="61000" />
+      <workItem from="1572053682966" duration="407000" />
+      <workItem from="1573365787233" duration="1885000" />
+      <workItem from="1573386365135" duration="269000" />
+      <workItem from="1573386680590" duration="128000" />
+      <workItem from="1573386853888" duration="286000" />
+      <workItem from="1573387184167" duration="599000" />
+      <workItem from="1576995567926" duration="6181000" />
+      <workItem from="1577012090193" duration="121000" />
+      <workItem from="1587280159888" duration="4258000" />
+      <workItem from="1587286006813" duration="5415000" />
+      <workItem from="1588338441535" duration="570000" />
+      <workItem from="1596026621394" duration="10238000" />
+      <workItem from="1597934381724" duration="223000" />
+      <workItem from="1599373671259" duration="7026000" />
+      <workItem from="1599394234126" duration="2064000" />
+      <workItem from="1599399706885" duration="1067000" />
+      <workItem from="1607845763127" duration="3391000" />
+      <workItem from="1610260993574" duration="14854000" />
+      <workItem from="1610287371570" duration="668000" />
+      <workItem from="1623653248287" duration="5617000" />
+      <workItem from="1623675683054" duration="1162000" />
+      <workItem from="1626005952325" duration="1397000" />
+      <workItem from="1626187801301" duration="2408000" />
+      <workItem from="1626613432593" duration="1511000" />
+      <workItem from="1627199987099" duration="1467000" />
+      <workItem from="1629615450282" duration="13061000" />
+      <workItem from="1629629343278" duration="284000" />
+      <workItem from="1629629689958" duration="846000" />
+      <workItem from="1630850093623" duration="966000" />
+      <workItem from="1630853289623" duration="4708000" />
+      <workItem from="1630858088708" duration="273000" />
+      <workItem from="1632239131364" duration="1979000" />
+      <workItem from="1633498345264" duration="5476000" />
+      <workItem from="1634383066598" duration="1525000" />
+      <workItem from="1634477256459" duration="3370000" />
+      <workItem from="1634481257643" duration="358000" />
+      <workItem from="1634481671784" duration="346000" />
+      <workItem from="1634482068463" duration="155000" />
+      <workItem from="1634482276071" duration="658000" />
+      <workItem from="1641220230588" duration="566000" />
+      <workItem from="1642342744497" duration="1812000" />
+      <workItem from="1645709493243" duration="406000" />
+      <workItem from="1645709939461" duration="957000" />
+      <workItem from="1645710939338" duration="427000" />
+      <workItem from="1645711411014" duration="483000" />
+      <workItem from="1645711935463" duration="217000" />
+      <workItem from="1645712194624" duration="332000" />
+      <workItem from="1645712573625" duration="132000" />
+      <workItem from="1645712752725" duration="179000" />
+      <workItem from="1645712973653" duration="102000" />
+      <workItem from="1645713119865" duration="287000" />
+      <workItem from="1645713452617" duration="415000" />
+      <workItem from="1645713910738" duration="205000" />
+      <workItem from="1645714158361" duration="138000" />
+      <workItem from="1645964416905" duration="708000" />
+      <workItem from="1645965168253" duration="2651000" />
+      <workItem from="1645975745993" duration="253000" />
+      <workItem from="1645976038207" duration="603000" />
+      <workItem from="1649171627932" duration="345000" />
+      <workItem from="1649172022988" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="238059000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3538874" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.15983027" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" weight="0.22206506" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.28005657" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32884902" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4966488" weight="0.14427157" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5033512" side_tool="true" weight="0.15983027" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.29844412" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="JSF" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="2" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" x="733" y="135" width="691" height="585" id="Palette" order="5" type="WINDOWED" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.24932976" />
+      <window_info anchor="right" id="SciView" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/commons-lang3-3.4.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="374" column="16" lean-forward="true" selection-start-line="374" selection-start-column="16" selection-end-line="374" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/utils/log/other/LogConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/bbb.erl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/pojo/ModAndMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGen/angular/apiData/ApiDataCodeGener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3222">
+          <caret line="186" column="32" selection-start-line="186" selection-start-column="32" selection-end-line="186" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/pojo/ModContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/server/Checkcirculateservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="93" column="43" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/ReplaceForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2021-08-22.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/sys_aaa.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeGenTmpDir/filter.properties" />
+    <entry file="file://$PROJECT_DIR$/log/2021-10-17.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/findMod/FindModForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/utils/FilterFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="1384" column="19" selection-start-line="1384" selection-start-column="19" selection-end-line="1384" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/text/cod/cod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeGenTmpDir/filter.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeGenTmpDir/findMod.text" />
+    <entry file="file://$PROJECT_DIR$/src/com/base/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="641" column="16" selection-start-line="641" selection-start-column="16" selection-end-line="641" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2022-02-24.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4734">
+          <caret line="263" column="8" selection-start-line="263" selection-start-column="8" selection-end-line="263" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/utils/log/other/WriteLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/utils/log/handle/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/aaa/www.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/aaa.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/lexer/aaa.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeGenTmpDir/findMod.text">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8370">
+          <caret line="494" column="18" selection-start-line="494" selection-start-column="18" selection-end-line="494" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/PluginHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#3976#3977#0" expanded="true" />
+            <element signature="e#4014#4015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGenHelper/CodeGenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="46" column="63" selection-start-line="46" selection-start-column="63" selection-end-line="46" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGen/base/TempCodeGener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGen/base/BSCodeGener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="123" column="45" selection-start-line="123" selection-start-column="45" selection-end-line="123" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/findMod/FindModForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/findMod/FindMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="73" column="43" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoListHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/Regular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkRepeatFile/CheckRepeatFileName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/handle/CheckCirculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="200" column="7" selection-start-line="200" selection-start-column="7" selection-end-line="200" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeGenTmpDir/cfg/properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/utils/log/other/MyTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/findMod/FindModHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/findMod/GetProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/cfg/CfgProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/checkTwoList/RegularForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/MyReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="105" column="82" selection-start-line="105" selection-start-column="68" selection-end-line="105" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/moduelset/setHelper/GetAndSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ErlangPlugin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>annotations-16.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

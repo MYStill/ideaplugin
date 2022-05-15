@@ -1,0 +1,117 @@
+<idea-plugin>
+    <id>com.your.company.unique.plugin.id</id>
+    <name>ErlangReplace 1.02</name>
+    <version>1.05</version>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <!-- 插件所依赖的其他插件的id -->
+    <depends>org.jetbrains.erlang</depends>
+    <description><![CDATA[
+      Enter short description for your plugin here.<br>
+      <em>most HTML tags may be used</em>
+    ]]></description>
+
+    <change-notes><![CDATA[
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>
+    ]]>
+    </change-notes>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="173.0"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <group id="1000" text="ElangPlugin" description="erlang 插件开发"
+               popup="true">
+            <!-- Add your actions here -->
+            <action id="1002" class="com.myerlangplugin.MyReplace" text="FileReplace" description="文件替换">
+            </action>
+            <add-to-group group-id="ProjectViewPopupMenu" anchor="after" relative-to-action="CompareTwoFiles"/>
+        </group>
+        <!--<group id="rightnotproject" text="ElangPlugin" description="erlang 插件开发"-->
+               <!--popup="true">-->
+            <!--&lt;!&ndash; Add your actions here &ndash;&gt;-->
+            <!--<action id="1002" class="com.myerlangplugin.MyReplace" text="FileReplace" description="文件替换">-->
+            <!--</action>-->
+            <!--<add-to-group group-id="DefaultActionGroup" anchor="after" relative-to-action="CompareTwoFiles"/>-->
+        <!--</group>-->
+        <group id="Sample_JBPopupActionGroup"/>
+        <action id="1003" class="com.myerlangplugin.listPopup.listPopup" text="listpopup"
+                description="测试方法 listpopup">
+            <keyboard-shortcut first-keystroke="control alt 1" keymap="$default"/>
+        </action>
+        <!--<action class="com.myerlangplugin.editAction.CustomEditorIllustration"-->
+        <!--id="com.myerlangplugin.editAction.CustomEditorIllustration"-->
+        <!--text = "editor handle">-->
+        <!--<add-to-group group-id="EditorPopupMenu" anchor = "first"></add-to-group>-->
+
+        <!--</action>-->
+        <action id="1004" class="com.myerlangplugin.checkRepeatFile.CheckRepeatFileName" text="checkRepeatFileName"
+                description="checkRepeatFileName">
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+        <action id="1005" class="com.myerlangplugin.ckecktwolist.CheckTwoList" text="checkTwoList"
+                description="checkTwoList">
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+        <action id="com.myerlangplugin.checkcirculate.handle."
+                class="com.myerlangplugin.checkcirculate.handle.CheckCirculate" text="checkCirculate"
+                description="checkCirculate">
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+        <action id="moduleset_action_1" class="com.myerlangplugin.moduelset.action.ModuleSetAction"
+                text="GetSetAction" description="模板切换">
+            <keyboard-shortcut first-keystroke="control alt 2" keymap="$default"/>
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+        <action id="com.erlang.winCmd.WinCmd" class="com.myerlangplugin.winCmd.WinCmdAction" text="WinCmdAction"
+                description="WinCmdAction">
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+        <action id="findChinese" class="com.myerlangplugin.findChinese.FindChinese" text="findChinese"
+                description="查找中文匹配">
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+        <!--<action id="MyPsiAction" class="com.myerlangplugin.psiAction.MyPsiAction" text="MyPsiAction"-->
+                <!--description="psi测试">-->
+            <!--<add-to-group group-id="1000" anchor="last"/>-->
+        <!--</action>-->
+
+        <action id="com.erlang.findmod" class="com.myerlangplugin.findMod.FindMod" text="findmod"
+                description="找到调用外部的模块名">
+            <add-to-group group-id="1000" anchor="last"/>
+        </action>
+    </actions>
+
+    <project-components>
+        <component>
+            <interface-class>com.erlangComponent.batCmdComponent.BatCmdComponent</interface-class>
+            <implementation-class>com.erlangComponent.batCmdComponent.BatCmdComponentImpl</implementation-class>
+        </component>
+    </project-components>
+
+    <!--// 增加一个组-->
+    <!--<group id="LombokActionGroup" text="Lombok" description="Refactor code with lombok annotations"-->
+    <!--icon="/icons/lombok.png" popup="true">-->
+    <!--<action id="defaultLombokData" class="de.plushnikov.intellij.plugin.action.lombok.LombokDataAction"-->
+    <!--text="Default @Data" description="Action to replace getter/setter/equals/hashcode/toString methods with lombok @Data annotation">-->
+    <!--</action>-->
+    <!--<separator/>-->
+    <!--<action id="defaultLombokGetter" class="de.plushnikov.intellij.plugin.action.lombok.LombokGetterAction"-->
+    <!--text="Default @Getter" description="Action to replace all getter methods with lombok @Getter annotation">-->
+    <!--</action>-->
+    <!--&lt;!&ndash; 中间有action删减 &ndash;&gt;-->
+    <!--<add-to-group group-id="RefactoringMenu" anchor="last"/>-->
+
+    <!--</group>-->
+
+</idea-plugin>

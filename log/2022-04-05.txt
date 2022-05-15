@@ -1,0 +1,37 @@
+2022-04-05 11:13:26:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2022-04-05 11:13:26:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2022-04-05 11:19:36:[debug] 
+BatCmdComponentImpl dispose
+C:\Users\tl\Desktop/log/2022-04-05 11:20:11:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2022-04-05 11:20:11:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2022-04-05 11:20:51:[debug] 
+2
+C:\Users\tl\Desktop/log/2022-04-05 11:20:51:[debug] 
+aa=>1
+C:\Users\tl\Desktop/log/2022-04-05 11:20:51:[debug] 
+bb=>2
+C:\Users\tl\Desktop/log/2022-04-05 11:20:51:[debug] 
+-export([
+  get_aa/1,set_aa/2,
+  get_bb/1,set_bb/2
+]).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+
+
+C:\Users\tl\Desktop/log/2022-04-05 11:22:17:[debug] 
+BatCmdComponentImpl dispose
+C:\Users\tl\Desktop/log/

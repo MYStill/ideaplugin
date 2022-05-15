@@ -1,0 +1,9 @@
+2021-09-21 11:45:08:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-09-21 11:45:08:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2021-09-21 11:45:43:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-09-21 11:45:43:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/

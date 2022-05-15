@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="annotations-16.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/annotations-16.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/commons-digester3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jar_files/hamcrest-core-1.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,45 @@
+2021-10-17 09:27:22:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-10-17 09:27:22:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2021-10-17 10:33:17:[debug] 
+BatCmdComponentImpl dispose
+C:\Users\tl\Desktop/log/2021-10-17 10:33:55:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-10-17 10:33:55:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2021-10-17 10:35:19:[error] 
+D:/bstest/ErlangPlugin/src/test/erlang
+C:\Users\tl\Desktop/log/2021-10-17 10:38:55:[error] 
+D:/bstest/ErlangPlugin/src/test/erlang
+C:\Users\tl\Desktop/log/2021-10-17 10:40:24:[debug] 
+BatCmdComponentImpl dispose
+C:\Users\tl\Desktop/log/2021-10-17 10:40:53:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-10-17 10:40:53:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2021-10-17 10:41:47:[error] 
+D:/bstest/ErlangPlugin/src/test/erlang
+C:\Users\tl\Desktop/log/2021-10-17 10:41:48:[error] 
+C:\Users\tl\Desktop\codeGenTmpDir
+C:\Users\tl\Desktop/log/2021-10-17 10:47:03:[debug] 
+BatCmdComponentImpl dispose
+C:\Users\tl\Desktop/log/2021-10-17 10:47:31:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-10-17 10:47:31:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2021-10-17 10:48:14:[error] 
+D:/bstest/ErlangPlugin/src/test/erlang
+C:\Users\tl\Desktop/log/2021-10-17 10:48:52:[error] 
+D:\bstest\ErlangPlugincodeGenTmpDir
+C:\Users\tl\Desktop/log/2021-10-17 10:50:29:[debug] 
+BatCmdComponentImpl dispose
+C:\Users\tl\Desktop/log/2021-10-17 10:50:57:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2021-10-17 10:50:57:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/2021-10-17 10:51:36:[error] 
+D:/bstest/ErlangPlugin/src/test/erlang
+C:\Users\tl\Desktop/log/2021-10-17 10:51:56:[error] 
+D:\bstest\ErlangPlugin\codeGenTmpDir
+C:\Users\tl\Desktop/log/
